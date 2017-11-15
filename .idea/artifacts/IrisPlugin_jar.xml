@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IrisPlugin:jar">
+    <output-path>D:/Java/Minecraft/Spigot/Testservers/Main/plugins</output-path>
+    <root id="archive" name="IrisPlugin.jar">
+      <element id="module-output" name="IrisPlugin" />
+      <element id="file-copy" path="D:/Java/Minecraft/Spigot/Buildtools/spigot-1.12.2.jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,59 @@
+name: IrisPlugin
+version: 0.1
+description: Custom plugin for Iris Server
+author: FlorisBurger
+website: http://florisburger.nl
+
+main: nl.florisburger.IrisServer.main.Main
+
+commands:
+  warp:
+    description: Warp to a warp.
+
+  setwarp:
+    description: Set a warp.
+
+  listwarp:
+    description: Give a list of all the warps.
+
+  delwarp:
+    description: Delete a warp.
+
+  spawn:
+    description: Go to spawn.
+
+  setspawn:
+    description: Set a spawnpoint.
+
+  delspawn:
+    description: Delete a spawnpoint.
+
+  tpa:
+    description: Request to teleport to someone.
+
+  tpaccept:
+    description: Accept a tpa request.
+
+  tpdeny:
+    description: Deny a tpa request.
+
+  sethome:
+    description: Set a new home.
+
+  home:
+    description: Go to one of your homes.
+
+  delhome:
+    description: Delete one of your homes.
+
+  wc:
+    description: Clear weather.
+
+  wb:
+    description: Open a workbench.
+
+  trashcan:
+    description: Opens a trashcan.
+
+  maakbank:
+    description: Create a BANK.
